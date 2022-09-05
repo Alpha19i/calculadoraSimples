@@ -5,6 +5,9 @@
 }
 
 body{
-    min-width: 100vh;
+    min-height: 100vh;
     background: #efeff2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
